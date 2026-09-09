@@ -200,5 +200,5 @@ TEL LEFT <dist> RIGHT <dist> DIST <dist> MODE AUTO_SCAN
 
 ## 👨‍💻 Authors & Acknowledgments
 
-- **Abdelrhman J.** - Embedded Systems & Mobile Application Engineering.
+- **Abdelrhman AJ.** - Embedded Systems & Mobile Application Engineering.
 - Developed as part of the **ARM ITI Track**.
