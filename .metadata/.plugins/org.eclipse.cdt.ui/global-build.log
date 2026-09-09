@@ -1,0 +1,8 @@
+00:53:21 **** Incremental Build of configuration Debug for project ARM ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "ARM.elf"
+   text	   data	    bss	    dec	    hex	filename
+  10195	    524	    560	  11279	   2c0f	ARM.elf
+Finished building: ARM.siz
+ 
