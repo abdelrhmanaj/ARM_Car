@@ -1,0 +1,17 @@
+# Eclipse & STM32
+.metadata/
+RemoteSystemsTempFiles/
+**/Debug/
+**/Release/
+
+# Flutter
+smart_car_controller/.dart_tool/
+smart_car_controller/build/
+smart_car_controller/.flutter-plugins
+smart_car_controller/.flutter-plugins-dependencies
+smart_car_controller/.pub-cache/
+smart_car_controller/.pub/
+smart_car_controller/.idea/
+*.iml
+*.class
+*.log
